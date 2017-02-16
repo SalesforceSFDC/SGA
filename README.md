@@ -27,3 +27,8 @@ I will be sending more information shortly on their layout. I think you’ll see
                - IP Edge upgrade in 2017   
 - Can we find out more about their objects, fields, sales processes?
                - Yes (Which objects, Fields, Process?)
+
+
+### Quick Links
+
+ * [Intro to Salesforce to Salesforce](https://developer.salesforce.com/page/An_Introduction_to_Salesforce_to_Salesforce)
